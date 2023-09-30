@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
         
         "Rachel": "Halo kak, saya rio umur 20 tahun. Saya bersyukur atas kehadiran kakak tapi kalo ditanya alesannya apa saya juga bingung jawabnya hehe. Unek-unek yang saya sampaikan gaada jadi langsung next. Pesan saya tetap semangat dan kasih yang terbaik. Harapan saya semoga Tuhan menyertai kakak apapun yang terjadi. Terima kasih banyak kak atas pelayanannya :>.",
         
-        "Axel": "namanya juga hidup. Saya bersyukur atas kehadiran anda karena meramaikan suasana. Unek-unek yang saya sampaikan gaada jadi langsung next. Pesan saya tetep semangat karna ya namanya juga idup. Harapan saya semoga hujan duit. Salam goyang nasi padang, Makasih banyak atas pelayanannya.",
+        "bang andreas": "Halo bang. Saya bersyukur atas kehadiran bang andreas biarpun dateng hari ke 2 tapi tetep mantep. Unek-unek yang saya sampaikan gaada jadi langsung next. Pesan saya tetap semangat bang biar jadi berkat dimanapun. Harapan saya semoga Tuhan menyertai disegala kondisi. Terima kasih banyak bang atas pelayanannya.",
     };
 
     generateButton.addEventListener("click", function () {
